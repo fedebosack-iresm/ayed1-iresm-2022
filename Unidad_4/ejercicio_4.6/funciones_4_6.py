@@ -15,6 +15,9 @@ prod_1_sto = 5
 prod_2_sto = 4
 prod_3_sto = 7
 
+def pagar_credito():
+    pass
+
 def agregar_stock():
     menu_productos()
     while True:
